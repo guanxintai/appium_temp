@@ -1,0 +1,8 @@
+click
+('id', 'tv_search')
+exception
+tips not found
+iv_close not found
+('id', 'search_input_text')
+click
+('id', 'name')

@@ -1,0 +1,5 @@
+('id', 'search_input_text')
+exception
+tv_agree not found
+tips not found
+iv_close not found

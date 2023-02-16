@@ -1,0 +1,6 @@
+['NATIVE_APP']
+['NATIVE_APP', 'WEBVIEW_com.xueqiu.android']
+['NATIVE_APP', 'WEBVIEW_com.xueqiu.android']
+['NATIVE_APP', 'WEBVIEW_com.xueqiu.android']
+['NATIVE_APP', 'WEBVIEW_com.xueqiu.android']
+WEBVIEW_com.xueqiu.android
